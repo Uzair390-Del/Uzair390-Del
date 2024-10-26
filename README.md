@@ -73,9 +73,8 @@ Institute of Space Technology, Islamabad
 - **EnergyEfficientAI:** Owner of Python library to calculate Energy and Power consumption of machine learning and deep learning algorithms. [Link](https://pypi.org/project/EnergyEfficientAI/)  
 - **MPI (Message Passing Interface) Using Python for Parallel Programming:** [Link](https://github.com/ZiaUrRehman-bit/MPI--Message-Passing-Interface--Using-Python-for-Parallel-Programming)  
 - **Implementation of Machine Learning Algorithms:** [Link](https://github.com/ZiaUrRehman-bit/Implementation-of-Machine-Learning-Algorithm)  
-- **AI Workshop:** Conducted AI workshop for AI implementation for industries [Link](https://github.com/ZiaUrRehman-bit/AI-Workshop-2024)  
 - **CNN Using MPI:** Introduced parallelism in Deep Learning CNN Using MPI (Message Passing Interface) [Link](https://github.com/ZiaUrRehman-bit/CNN-Using-MPI)  
-- **Comparative Analysis of Seven Programming Languages:** Finding Energy Consumption of Programming Languages (C, C++, C#, Java, Python, Matlab, R) [Link](https://github.com/Uzair390-Del/Comparative-Analysis-of-Seven-Programming-Languages)  
+- **Comparative Analysis of Seven Programming Languages:** Finding Energy Consumption of Programming Languages (C, C++, C#, Java, Python, Matlab, R) [Link](https://github.com/Uzair390-Del/comparative_analysis_of_seven_programming_languages)  
 
 ### Master Thesis  
 **Title:** "Towards Green and Sustainable Artificial Intelligence: Quantifying the Energy Footprint of Machine Learning Algorithms"  
