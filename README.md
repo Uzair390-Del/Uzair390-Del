@@ -29,7 +29,10 @@ Institute: KICSIT, Rawalpindi
 ### Masters in Computer Science  
 **2022 – 2024**  
 Institute of Space Technology, Islamabad  
-**CGPA:** 3.84 / 4.0 (Rank 1st in class)  
+**CGPA:** 3.84 / 4.0 (Rank 1st in class) 
+
+## Author Python Package
+[EnergyEfficientAI](https://pypi.org/project/EnergyEfficientAI/#description)
 
 ## SKILLS  
 ### Computer Languages  
