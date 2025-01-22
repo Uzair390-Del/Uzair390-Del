@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 # Uzair Hassan
 **Computer Scientist** | Computer Vision | Machine Learning | Deep Learning | Parallel Computing | Web Development  
-[uzair.zairi321@gmail.com](mailto:uzair.zairi321@gmail.com) | [LinkedIn](https://linkedin.com/in/uzair-hassan-6aa290194/) | [GitHub](https://github.com/Uzair390-Del)  
+[uzair.zairi321@gmail.com](mailto:uzair.zairi321@gmail.com) | [LinkedIn](https://linkedin.com/in/uzair-hassan-6aa290194/) | [GitHub](https://github.com/Uzair390-Del)
+[ResearchGate](https://www.researchgate.net/profile/Uzair-Hassan-5?ev=hdr_xprf) |
 +92 314 0580838  
 
 ## EDUCATION  
