@@ -54,7 +54,7 @@ Institute of Space Technology, Islamabad
 - Information Security  
 
 ## ACHIEVEMENTS  
-- Silver Medal in BS Computer Engineering  
+- Silver Medal in BS Computer Science  
 - Gold Medal in MS Computer Science  
 - First division throughout academic career  
 
