@@ -37,10 +37,10 @@ Institute of Space Technology, Islamabad
 
 ## SKILLS  
 ### Computer Languages  
-- Python, C, C++, Latex (for academic writings), Django, HTML, CSS, JavaScript  
+- Python, C, C++, Java, Latex (for academic writings), Django, XML, HTML, CSS, JavaScript  
 
 ### Development Environments  
-- VS Code, PyCharm, Anaconda, GitHub, Kaggle, Ubuntu, Matlab, Overleaf, Jupyter Notebook  
+- VS Code, Android Studio, PyCharm, Anaconda, GitHub, Kaggle, Ubuntu, Matlab, Overleaf, Jupyter Notebook  
 
 ### Operating Systems  
 - Windows, Linux (Ubuntu)  
